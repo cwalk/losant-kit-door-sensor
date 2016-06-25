@@ -1,5 +1,10 @@
 # Losant IoT Door Sensor Kit
 
+## YouTube
+
+YouTube: https://youtu.be/b6zc7SYIrY4?list=PLgAD2y-6wgwqXMw-UZoz1gNYJyJKkzE81
+
+
 The Losant IoT Door Sensor Kit includes all of the hardware and software required to build an internet powered door or window sensor. Be instantly notified by text, email, Slack, or many others as soon as your door is opened. Easily visualize your door activity to see when it was opened and at what times.
 
 This kit can be purchased through the [Losant IoT Developer Store](https://store.losant.com/products/losant-door-sensor-kit).
